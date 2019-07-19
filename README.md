@@ -32,4 +32,5 @@ You might have to `chmod 777 config.json` as well.
 Branch Info
 <br>
 `Master`: for minehut servers. (The only one I tested)
+<br>
 `Aternos`: for aternos servers. (no support/never tested)
