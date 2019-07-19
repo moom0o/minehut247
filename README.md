@@ -28,3 +28,7 @@ Getting a permission denied: run `chmod 777 start.sh` and `chmod 777 index.js`
 
 You might have to `chmod 777 config.json` as well.
 
+
+Branch Info
+`Master`: for minehut servers.
+`Aternos`: for aternos servers.
