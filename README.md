@@ -10,6 +10,8 @@ Installation steps:
 <br>
 2: Edit config.json with your desired settings
 <br>
+You might need to install node.
+<br>
 3: run `npm install mineflayer --save`
 <br>
 4: run start.sh (Recommended) or `node index.js`
