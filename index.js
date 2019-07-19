@@ -2,8 +2,8 @@
 const config = require("./config.json");
 var mineflayer = require('mineflayer');
 var bot = mineflayer.createBot({
-  host: "mc.minehut.com", // Server IP for bot to connect to
-  port: "25565",       // server port for bot to connect to
+  host: config.ip, // Server IP for bot to connect to
+  port: config.port,       // server port for bot to connect to
   username: config.username, // email for bot
   password: config.password,          // password for bot
   version: config.version, // version of server bot is trying to connect to
