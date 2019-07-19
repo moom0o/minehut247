@@ -2,6 +2,5 @@
     "username": "hackme@mail.ru",
     "password": "password12345",
     "version": "1.12.2",
-    "loopmessage": "/join SERVERNAME",
-    "interval_for_message_in_milliseconds": "1800000"
+    "ip": "asdfghjkl.aternos.me"
 }
